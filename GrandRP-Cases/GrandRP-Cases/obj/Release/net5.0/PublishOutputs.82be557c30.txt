@@ -1,0 +1,5 @@
+C:\Users\Kenneth\Desktop\GrandRP-Cases.exe
+C:\Users\Kenneth\Desktop\GrandRP-Cases.dll
+C:\Users\Kenneth\Desktop\GrandRP-Cases.deps.json
+C:\Users\Kenneth\Desktop\GrandRP-Cases.runtimeconfig.json
+C:\Users\Kenneth\Desktop\GrandRP-Cases.pdb
